@@ -19,7 +19,7 @@
     
     <!-- NAVIGATION - NAVBAR -->
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container">
         <a class="navbar-brand" href="#">SamCoding website</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -31,10 +31,10 @@
               <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="#info-one">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -66,12 +66,75 @@
 
     <section id="testimonial">
       <div class="container">
-        <p class="mb-2">
+        <p class="h2 mb-2">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam aspernatur perspiciatis ipsum quidem impedit nesciunt molestias nemo quisquam earum expedita iusto vel ullam autem est, at deleniti possimus officiis nobis.
         </p>
-        <p> commit by sam</p>
+        <p class="h4"> commit by sam</p>
       </div>
     </section>
+
+    <!-- INFO ONE -->
+
+    <section id="info-one">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="info-left">
+              <img src="img/image2.png" style="width: 100%;">
+            </div>
+          </div>
+          <div class="col-md-6 my-auto">
+            <div class="info-right">
+              <h2>Lorem ipsum dolor sit.</h2>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum modi atque eos voluptatibus asperiores quibusdam quo! Modi beatae tenetur molestiae quo nemo impedit ipsa aspernatur, neque natus eaque ad distinctio.</p>
+              <a href="#" class="btn btn-outline-secondary btn-lg">Read more</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- INFO TWO -->
+
+    <section id="info-two" style="background: #f1f1f1;">
+      <div class="container">
+        <div class="row my-5">
+          <div class="col-md-6">
+            <h2>Lorem, ipsum dolor.</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus similique eius odit voluptatibus, labore officiis distinctio ipsa quam laboriosam dicta dolorum sapiente ullam. Natus repudiandae, officiis dolore dicta ea perferendis!</p>
+          </div>
+          <div class="col-md-6">
+            <h2>Lorem, ipsum dolor.</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus similique eius odit voluptatibus, labore officiis distinctio ipsa quam laboriosam dicta dolorum sapiente ullam. Natus repudiandae, officiis dolore dicta ea perferendis!</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+
+    <footer id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <form class="card mt-4">
+             <div class="card-body">
+               <div class="form group">
+                 <input type="text" placeholder="name" class="form-control">
+               </div>
+               <div class="form group">
+                <input type="email" placeholder="email" class="form-control">
+              </div>
+              <div class="form-group">
+                <textarea id="" cols="30" rows="10" class="form-control"></textarea>
+              </div>
+              <button type="submit" class="btn btn-outline-primary btn-block">Enviar</button>
+             </div> 
+            </form>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- BOOTSTRAP 4 SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
