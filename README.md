@@ -9,6 +9,10 @@ Link para ver mi portafolio:🚀😊
 ------------
 
 [Portafolio Samuel Daza](https://samueldazadaza.github.io/portafolio/ "Portafolio samuel daza")
+
+###### 
+
+------------
 Tecnologias aprendidas en este proyecto:
 
 * Estructura CSS
