@@ -1,14 +1,13 @@
 # Portafolio SAMUEL DAZA
-portafolio samuel
-Proyeto creado principalmente, para aprender sobre tecnologias de diseño frontend
+Proyecto creado principalmente, para aprender sobre tecnologias frontend y ademas plasmar mis conocimientos como desarrollador. 😎
 
 ###### 
 
 ------------
 
 Link para ver mi portafolio:🚀😊
+**https://samueldazadaza.github.io/portafolio/**
 
-[Portafolio Samuel Daza](https://samueldazadaza.github.io/portafolio/ "Portafolio samuel daza")
 
 ###### 
 
@@ -18,4 +17,6 @@ Tecnologias aprendidas en este proyecto:
 * Estructura CSS
 * Estructura HTML
 * Implementación de Bootstrap
-* 
+* Editor de texto Markdown
+
+[![Mi portafolio SAMUEL DAZA](https://raw.githubusercontent.com/samueldazadaza/portafolio/gh-pages/portafolio_samuel.JPG "Mi portafolio SAMUEL DAZA")](https://samueldazadaza.github.io/portafolio/)
