@@ -16,3 +16,6 @@ body{
 footer{
     background: url(../img/smartphones.png);
 }
+.navbar{
+    background-color: rgb(4, 100, 73) !important
+}
