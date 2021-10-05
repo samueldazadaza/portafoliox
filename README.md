@@ -21,7 +21,7 @@ Tecnologias aprendidas en este proyecto:
 * Implementación de Bootstrap
 * Editor de texto Markdown
 
-[![Mi portafolio SAMUEL DAZA](https://raw.githubusercontent.com/samueldazadaza/portafolio/gh-pages/portafolio_samuel.JPG "Mi portafolio SAMUEL DAZA")](https://samueldazadaza.github.io/portafolio/)
+[![Mi portafolio SAMUEL DAZA](https://raw.githubusercontent.com/samueldazadaza/portafolio/main/img/portafolio_samuel.JPG "Mi portafolio SAMUEL DAZA")](https://samueldazadaza.github.io/portafolio/)
 
 
 
